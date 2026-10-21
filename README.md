@@ -4,7 +4,7 @@ WaterBuddy is a small web app that helps you drink enough water every day. You p
 
 Built for **FA-2: Developing and Deploying App Using Python** (Python Programming, Year 1) using Python and Streamlit.
 
-**Live app:** PASTE-YOUR-STREAMLIT-LINK-HERE
+**Live app:** https://waterbuddy-qjyumzqys75vvjdwb5lmkn.streamlit.app/
 
 ## What it does
 
